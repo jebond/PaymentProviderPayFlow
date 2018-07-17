@@ -10,6 +10,15 @@ namespace Client {
 
     class PayFlowProClient
     {
+        /**
+         * PayFlowProClient constructor. Creates a buzz client that is initialized using config
+         * information from the .env file to generate
+         */
+        function __construct(){
+
+
+        }
+
 
     }
 }
