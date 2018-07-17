@@ -11,6 +11,9 @@ namespace PaymentProvider {
 
     class PaymentProvider
     {
+        function __construct(){
 
+
+        }
     }
 }

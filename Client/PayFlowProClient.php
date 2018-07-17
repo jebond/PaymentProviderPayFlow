@@ -5,7 +5,7 @@
 from checkout*/
 
 
-namespace Client {
+namespace PayFlowProClient {
 
 
     class PayFlowProClient
